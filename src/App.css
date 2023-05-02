@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.editorClassName  {
+  min-height: 250px;
+  max-height: 400px;
+}

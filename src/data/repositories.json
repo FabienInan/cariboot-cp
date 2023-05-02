@@ -1,0 +1,32 @@
+{
+    "repositories" : {
+        "41493290": { 
+            "name": "demo",
+            "triggerToken": "Bh-xUG46z-G6T_yJryn5"
+        },
+        "40541647" : {
+            "name": "fftda",
+            "triggerToken": "glptt-10efba27ad9f25d0ee5457fc728bf56923b93490"
+        },
+        "34225624": { 
+            "name": "focale",
+            "triggerToken": "glptt-8785dd82a77a607cd5c9b2d8c9f7464110739cea"
+        },
+        "34283275": { 
+            "name": "hop",
+            "triggerToken": "glptt-b74152a7b18d7d78edc79eb0e3ad936c53fbb45e"
+        },
+        "38839517": { 
+            "name": "rtr",
+            "triggerToken": "glptt-3b3f9905ff2bf4db58e9b6987b7eb9f1bab80dc4"
+        },
+        "39176813": { 
+            "name": "mcm",
+            "triggerToken": "glptt-2e52f2184323f2848ff5919dc23faea7bcc782fc"
+        },
+        "33984506": { 
+            "name": "core",
+            "triggerToken": "glptt-e83fc31abc6f2e07022100ea83dafacb6c9a110c"
+        }
+    }
+}
